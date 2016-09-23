@@ -1,4 +1,4 @@
 funcAvg <- function(vect, retValue)
 {
-  print("ello")
+  print("hello")
 }
